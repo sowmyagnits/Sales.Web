@@ -1,0 +1,50 @@
+﻿
+<div class="row">
+    <div class="col-md-2">
+        &nbsp;
+    </div>
+    <div class="col-md-5 col-xs-4 col-sm-5">
+        <span class="glyphicon glyphicon-search"></span>Filter:
+        <input type="text"
+               data-ng-model="searchText"
+               data-ng-change="searchTextChanged()"
+               class="novalidate form-control" />
+    </div>
+    <div class="col-md-8">
+        <table class="table table-striped table-bordered table-hover">
+            <thead>
+                <tr>
+                    <th>Product ID</th>
+                    <th>Description</th>
+                    <th>Brand</th>
+                    <th>Comments</th>
+                    <th>RATINGS</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr data-ng-repeat="product in filteredProducts">
+                    <td>
+                        <a href="#/productDetails/{{ product.ProductID}}" class="btn-link">                      
+                        </a>
+                    </td>
+                    <td>
+                        {{ product.Description }}
+                    </td>
+                    <td>
+                        {{ product.Brand }}
+                    </td>
+                    <td>
+                        {{ product.Comments }}
+                    </td>
+                    <td>
+                        {{ product.RATINGS }}
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="col-md-2">
+        &nbsp;
+    </div>
+</div>

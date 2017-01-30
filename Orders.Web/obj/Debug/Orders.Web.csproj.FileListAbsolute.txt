@@ -1,0 +1,66 @@
+E:\Sample Projects\Myapp-20170122T055514Z\Myapp\Orders.Web\Orders.Web\bin\ApplicationInsights.config
+E:\Sample Projects\Myapp-20170122T055514Z\Myapp\Orders.Web\Orders.Web\bin\roslyn\csc.exe
+E:\Sample Projects\Myapp-20170122T055514Z\Myapp\Orders.Web\Orders.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Sample Projects\Myapp-20170122T055514Z\Myapp\Orders.Web\Orders.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Sample Projects\Myapp-20170122T055514Z\Myapp\Orders.Web\Orders.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Sample Projects\Myapp-20170122T055514Z\Myapp\Orders.Web\Orders.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Sample Projects\Myapp-20170122T055514Z\Myapp\Orders.Web\Orders.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Sample Projects\Myapp-20170122T055514Z\Myapp\Orders.Web\Orders.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Sample Projects\Myapp-20170122T055514Z\Myapp\Orders.Web\Orders.Web\bin\roslyn\System.Collections.Immutable.dll
+E:\Sample Projects\Myapp-20170122T055514Z\Myapp\Orders.Web\Orders.Web\bin\roslyn\System.Reflection.Metadata.dll
+E:\Sample Projects\Myapp-20170122T055514Z\Myapp\Orders.Web\Orders.Web\bin\roslyn\vbc.exe
+E:\Sample Projects\Myapp-20170122T055514Z\Myapp\Orders.Web\Orders.Web\bin\roslyn\VBCSCompiler.exe
+E:\Sample Projects\Myapp-20170122T055514Z\Myapp\Orders.Web\Orders.Web\bin\roslyn\VBCSCompiler.exe.config
+E:\Sample Projects\Myapp-20170122T055514Z\Myapp\Orders.Web\Orders.Web\bin\Orders.Web.dll.config
+E:\Sample Projects\Myapp-20170122T055514Z\Myapp\Orders.Web\Orders.Web\bin\Orders.Web.dll
+E:\Sample Projects\Myapp-20170122T055514Z\Myapp\Orders.Web\Orders.Web\bin\Orders.Web.pdb
+E:\Sample Projects\Myapp-20170122T055514Z\Myapp\Orders.Web\Orders.Web\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Sample Projects\Myapp-20170122T055514Z\Myapp\Orders.Web\Orders.Web\bin\Microsoft.AI.DependencyCollector.dll
+E:\Sample Projects\Myapp-20170122T055514Z\Myapp\Orders.Web\Orders.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Sample Projects\Myapp-20170122T055514Z\Myapp\Orders.Web\Orders.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Sample Projects\Myapp-20170122T055514Z\Myapp\Orders.Web\Orders.Web\bin\Microsoft.AI.Web.dll
+E:\Sample Projects\Myapp-20170122T055514Z\Myapp\Orders.Web\Orders.Web\bin\Microsoft.AI.WindowsServer.dll
+E:\Sample Projects\Myapp-20170122T055514Z\Myapp\Orders.Web\Orders.Web\bin\Microsoft.ApplicationInsights.dll
+E:\Sample Projects\Myapp-20170122T055514Z\Myapp\Orders.Web\Orders.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Sample Projects\Myapp-20170122T055514Z\Myapp\Orders.Web\Orders.Web\bin\Microsoft.AI.DependencyCollector.xml
+E:\Sample Projects\Myapp-20170122T055514Z\Myapp\Orders.Web\Orders.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Sample Projects\Myapp-20170122T055514Z\Myapp\Orders.Web\Orders.Web\bin\Microsoft.AI.Web.xml
+E:\Sample Projects\Myapp-20170122T055514Z\Myapp\Orders.Web\Orders.Web\bin\Microsoft.AI.WindowsServer.xml
+E:\Sample Projects\Myapp-20170122T055514Z\Myapp\Orders.Web\Orders.Web\bin\Microsoft.ApplicationInsights.xml
+E:\Sample Projects\Myapp-20170122T055514Z\Myapp\Orders.Web\Orders.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Sample Projects\Myapp-20170122T055514Z\Myapp\Orders.Web\Orders.Web\obj\Debug\Orders.Web.csprojResolveAssemblyReference.cache
+E:\Sample Projects\Myapp-20170122T055514Z\Myapp\Orders.Web\Orders.Web\obj\Debug\Orders.Web.dll
+E:\Sample Projects\Myapp-20170122T055514Z\Myapp\Orders.Web\Orders.Web\obj\Debug\Orders.Web.pdb
+C:\Users\Sowmya\Desktop\Orders.Web\Orders.Web\bin\ApplicationInsights.config
+C:\Users\Sowmya\Desktop\Orders.Web\Orders.Web\bin\roslyn\csc.exe
+C:\Users\Sowmya\Desktop\Orders.Web\Orders.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sowmya\Desktop\Orders.Web\Orders.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sowmya\Desktop\Orders.Web\Orders.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sowmya\Desktop\Orders.Web\Orders.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sowmya\Desktop\Orders.Web\Orders.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sowmya\Desktop\Orders.Web\Orders.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sowmya\Desktop\Orders.Web\Orders.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sowmya\Desktop\Orders.Web\Orders.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sowmya\Desktop\Orders.Web\Orders.Web\bin\roslyn\vbc.exe
+C:\Users\Sowmya\Desktop\Orders.Web\Orders.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sowmya\Desktop\Orders.Web\Orders.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sowmya\Desktop\Orders.Web\Orders.Web\bin\Orders.Web.dll.config
+C:\Users\Sowmya\Desktop\Orders.Web\Orders.Web\bin\Orders.Web.dll
+C:\Users\Sowmya\Desktop\Orders.Web\Orders.Web\bin\Orders.Web.pdb
+C:\Users\Sowmya\Desktop\Orders.Web\Orders.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sowmya\Desktop\Orders.Web\Orders.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sowmya\Desktop\Orders.Web\Orders.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sowmya\Desktop\Orders.Web\Orders.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sowmya\Desktop\Orders.Web\Orders.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Sowmya\Desktop\Orders.Web\Orders.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sowmya\Desktop\Orders.Web\Orders.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sowmya\Desktop\Orders.Web\Orders.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sowmya\Desktop\Orders.Web\Orders.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sowmya\Desktop\Orders.Web\Orders.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sowmya\Desktop\Orders.Web\Orders.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Sowmya\Desktop\Orders.Web\Orders.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sowmya\Desktop\Orders.Web\Orders.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sowmya\Desktop\Orders.Web\Orders.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sowmya\Desktop\Orders.Web\Orders.Web\obj\Debug\Orders.Web.csprojResolveAssemblyReference.cache
+C:\Users\Sowmya\Desktop\Orders.Web\Orders.Web\obj\Debug\Orders.Web.dll
+C:\Users\Sowmya\Desktop\Orders.Web\Orders.Web\obj\Debug\Orders.Web.pdb
